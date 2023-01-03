@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Product CRUD with steps","This will create new product","SUCCESS","2023-01-01T22:45:19.475Z[Europe/London]","0.0","19.73"
+"Product CRUD with steps","Verify if the product was added to application","SUCCESS","2023-01-01T22:45:39.313Z[Europe/London]","0.0","0.31"
+"Product CRUD with steps","This will update product","SUCCESS","2023-01-01T22:45:39.626Z[Europe/London]","0.0","0.47"
+"Product CRUD with steps","This will delete product","SUCCESS","2023-01-01T22:45:40.099Z[Europe/London]","0.0","0.21"
